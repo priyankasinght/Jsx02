@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #eb6664;
+  width: 60vw;
+  height: 90vh;
+  font-weight: 500;
+  font-size: 2rem;  
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+*{
+  color: white; 
+}
+
+.App p{
+  font-size: 1rem;
+
+}
+
+.Text{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
